@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Renan Pereira</h1>
 <h3 align="center">A programming student.</h3>
-- 👨‍💻 All of my projects are available at src="https://github.com/r3nanp"
+- 👨‍💻 All of my projects are available at <a href="https://github.com/r3nanp"> Github</a>
 
 - 📫 How to reach me **renanmol87@gmail.com**
 
