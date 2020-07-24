@@ -5,8 +5,8 @@
 - 📫 How to reach me **renanmol87@gmail.com**
 
 <p align="left">
-<img src="javascript.png" alt="javascript" width="120" height="120"/> <img src="typescript.png" alt="typescript" width="120" height="120"/>
-<img src="react.png" alt="react" width="120" height="120"/>
+<img src="javascript.png" alt="javascript" width="120" height="120"/> <img src="typescript.jpg" alt="typescript" width="120" height="120"/>
+<img src="react.jpg" alt="react" width="120" height="120"/>
 <img src="node.png" alt="node" width="120" height="120" />
 <img src="php.png" alt="php" width="120" height="120"/>
 </p><p align="center">
