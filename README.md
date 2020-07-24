@@ -8,7 +8,7 @@
 <img src="https://github.com/r3nanp/r3nanp/blob/master/javascript.png" alt="javascript" width="120" height="120"/>
 <img src="https://github.com/r3nanp/r3nanp/blob/master/typescript%20(1).jpg" alt="typescript" width="120" height="120"/>
 <img src="https://github.com/r3nanp/r3nanp/blob/master/react.jpg" alt="react" width="120" height="120"/>
-<img src="node.png" alt="node" width="120" height="120" />
+<img src="https://github.com/r3nanp/r3nanp/blob/master/node.png" alt="node" width="120" height="120" />
 <img src="php.png" alt="php" width="120" height="120"/>
 </p>
 <p align="center">
