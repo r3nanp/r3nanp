@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Renan Pereira</h1>
+<h1 align="center">Hello there, I'm Renan Pereira</h1>
 <h3 align="center">A programming student.</h3>
 - 👨‍💻 All of my projects are available at <a href="https://github.com/r3nanp"> Github</a>
 
