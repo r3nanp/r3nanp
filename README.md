@@ -11,5 +11,5 @@
 
 - 📫 How to reach me **renanmol87@gmail.com**
 <p align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-pereira-968bb61b0/)(https://www.linkedin.com/in/renan-pereira-968bb61b0/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-pereira-968bb61b0/)](https://www.linkedin.com/in/renan-pereira-968bb61b0/)
 </p>
