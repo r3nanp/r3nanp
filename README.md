@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/r3nanp"> Github</a> <br />
 
-<h3 align="center>Main technologies</h3> <br />
+<h3 align="center">Main technologies </h3> <br />
 
 <p align="left">
 <img src="https://github.com/r3nanp/r3nanp/blob/master/javascript.png" alt="javascript" width="120" height="120"/>
