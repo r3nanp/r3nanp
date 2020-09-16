@@ -9,7 +9,7 @@
 <img src="https://github.com/r3nanp/r3nanp/blob/master/node.png" alt="node" width="120" height="120" />
 </p>
 
-<p align="center">
 - 📫 How to reach me **renanmol87@gmail.com**
+<p align="center">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-pereira-968bb61b0/)(https://www.linkedin.com/in/renan-pereira-968bb61b0/)
 </p>
