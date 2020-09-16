@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Renan Pereira</h1>
-<h3 align="center">A programming student.</h3>
+<h3 align="center">A Full Stack programming.</h3>
 - 👨‍💻 All of my projects are available at <a href="https://github.com/r3nanp"> Github</a> <br />
 
 <p align="left">
@@ -11,5 +11,5 @@
 
 - 📫 How to reach me **renanmol87@gmail.com**
 <p align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-pereira-968bb61b0/)](https://www.linkedin.com/in/renan-pereira-968bb61b0/)
+ [Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-pereira-968bb61b0/)(https://www.linkedin.com/in/renan-pereira-968bb61b0/)
 </p>
