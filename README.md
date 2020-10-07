@@ -31,6 +31,6 @@
 
 ---
 
-[![Renan Github Stats](https://github-readme-stats.vercel.app/api?username=r3nanp)
+![Renan Github Stats](https://github-readme-stats.vercel.app/api?username=r3nanp)
 
 
