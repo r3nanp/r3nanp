@@ -9,7 +9,8 @@
 
 - Email: **renanmol87@gmail.com**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-pereira-968bb61b0/)](https://www.linkedin.com/in/renan-pereira-968bb61b0/)
+ <a href="https://www.linkedin.com/in/renan-pereira-968bb61b0/"> 
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /> </a>
 ---
 <h3 align="left">Main technologies: </h3>
 
