@@ -8,7 +8,7 @@
 <h3>How to reach me: </h3>
 
 - Email: **renanmol87@gmail.com**
-
+- LinkedIn: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-pereira-968bb61b0/)](https://www.linkedin.com/in/renan-pereira-968bb61b0/)
 ---
 <h3 align="left">Main technologies: </h3>
@@ -31,6 +31,6 @@
 
 ---
 
-[![Renan Github Stats](https://github-readme-stats.vercel.app/api?username=r3nanp)]
+[![Renan Github Stats](https://github-readme-stats.vercel.app/api?username=r3nanp)
 
 
