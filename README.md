@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Renan Pereira</h1>
 <h3 align="center">A Full Stack developer.</h3>
 
- I've been working with programming since 2018.
+💻 I've been working with programming since 2018. I'm 17 years old.
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/r3nanp"> Github</a> <br />
 
