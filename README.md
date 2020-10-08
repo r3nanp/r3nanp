@@ -9,10 +9,7 @@
 <h3>How to reach me: </h3>
 
 - Email: **renanmol87@gmail.com**
-
- <a href="https://www.linkedin.com/in/renan-pereira-968bb61b0/"> 
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /> </a>
-  
+ 
 ---
 <h3 align="left">Main technologies: </h3>
 
@@ -35,7 +32,20 @@
 <br>
 
 ---
+<p align="center">
+ 
+ ![Renan Github Stats](https://github-readme-stats.vercel.app/api?username=r3nanp&show_icons=true&theme=dracula)
 
-![Renan Github Stats](https://github-readme-stats.vercel.app/api?username=r3nanp&show_icons=true&theme=dracula)
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/renan-pereira-968bb61b0/" target="blank"> 
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+ </a>
+ 
+ <a href="twitter.com/rghost_19" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="30" />
+ </a>
+ 
+</p> 
 
