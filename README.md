@@ -42,7 +42,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
  </a>
  
- <a href="twitter.com/rghost_19" target="blank">
+ <a href="https://www.twitter.com/rghost_19" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="30" />
  </a>
  
