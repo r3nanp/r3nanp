@@ -4,7 +4,7 @@
 💻 I've been working with programming since 2018. I'm 17 years old.
 
 - 👨‍ All of my projects are available at <a href="https://github.com/r3nanp"> Github</a> <br />
-- 🌱 I’m currently learning **React, Angular, Node.js, React Native, Electron**
+- 🌱 I’m currently learning **React, Next.js, Node.js, React Native, Electron**
 
 <h3>How to reach me: </h3>
 
