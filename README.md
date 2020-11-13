@@ -33,7 +33,10 @@
 
 ---
 <p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api?username=r3nanp&show_icons=true&theme=dracula" alt="Renan Pereira" />
+ 
+ [![Stats](https://github-readme-stats.vercel.app/api?username=r3nanp&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3nanp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
 </p>
 
 <p align="center">
