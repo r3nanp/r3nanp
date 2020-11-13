@@ -34,8 +34,10 @@
 ---
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=r3nanp&show_icons=true&theme=dracula" alt="Renan Pereira" />
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3nanp&layout=compact&show_icons=true&theme=dracula" alt="Langs" /> 
+</p>
+
+<p align="center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3nanp&layout=compact&show_icons=true&theme=dracula" alt="Langs" />
 </p>
 
 <p align="center">
