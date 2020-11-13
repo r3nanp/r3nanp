@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Renan Pereira</h1>
-<h3 align="center">A Full Stack developer.</h3>
+<h3 align="center">A software developer.</h3>
 
-💻 I'm a software developer, I've been working with programming since 2018. I'm 17 years old. 
+💻 I've been working with programming since 2018. I'm 17 years old. 
 
 - 👨‍ All of my projects are available at <a href="https://github.com/r3nanp"> Github</a> <br />
 - 🌱 I’m currently learning **React, Next.js, Node.js, React Native, Electron**
@@ -25,15 +25,15 @@
 
   <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   
-  <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="26px" />
 
-  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
+  <img align="left" src="https://devicon.dev/devicon.git/icons/electron/electron-original.svg" alt="electron" width="26px" />
 
   <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-  <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <img align="left" alt="Git" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg"/>
 
-  <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  <img align="left" alt="GitHub" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" />
 </p>
 
 <br> <br>
