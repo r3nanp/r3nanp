@@ -7,7 +7,7 @@
 
 <h3>How to reach me: </h3>
 
-[![Email badge](https://img.shields.io/badge/email--%2300EBEB?style=for-the-badge&logo=gmail)](renanmol87@gmail.com)
+[![Email badge](https://img.shields.io/badge/email--%2300EBEB?style=for-the-badge&logo=gmail)](mailto:renanmol87@gmail.com?subject=Hello)
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r3nanp)
 
