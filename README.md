@@ -1,15 +1,18 @@
-<h1 align="center">Hello there, I'm Renan Pereira</h1>
-<h3 align="center">A software developer.</h3>
+# 🔥 Renan Pereira
 
-💻 I've been working with programming since 2018. 
+**Software Developer**
 
-- 👨‍ All of my projects are available at <a href="https://github.com/r3nanp"> Github</a> <br />
-- 🌱 I’m currently learning **React, Next.js, Node.js, React Native, Electron**
+- ⚡ Mastering: **React, Next.js, Node.js, React Native, styled-components**
+- 💻 Learning: **Electron, TDD, Design Patterns**
 
 <h3>How to reach me: </h3>
 
-- Email: **renanmol87@gmail.com**
+[![Email badge](https://img.shields.io/badge/email--%2300EBEB?style=for-the-badge&logo=gmail)](renanmol87@gmail.com)
+
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r3nanp)
+
 ---
+
 <h3 align="left">Main technologies: </h3>
 
 <p align="left">
@@ -38,21 +41,6 @@
 
 <br> <br>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=r3nanp&show_icons=true&theme=dracula" alt="Renan Pereira" />
-</div>
-<br>
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3nanp&layout=compact&show_icons=true&theme=dracula" alt="Langs" />
-
-</p>  
-<p align="center">
-  <a href="https://www.linkedin.com/in/r3nanp/" target="__blank"> 
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
- 
-  <a href="https://www.twitter.com/rghost_19" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="30" />
-  </a>
 </p>
