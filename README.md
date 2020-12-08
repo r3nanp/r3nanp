@@ -3,7 +3,7 @@
 **Software Developer**
 
 - ⚡ Mastering: **React, Next.js, Node.js, React Native, styled-components**
-- 💻 Learning: **Electron, TDD, Design Patterns**
+- 💻 Learning: **Electron, TDD, BDD, Design Patterns**
 
 <h3>How to reach me: </h3>
 
