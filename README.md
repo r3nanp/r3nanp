@@ -7,9 +7,8 @@
 
 <h3>How to reach me: </h3>
 
-[![Email badge](https://img.shields.io/badge/email--%2300EBEB?style=for-the-badge&logo=gmail)](mailto:renanmol87@gmail.com?subject=Hello)
-
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r3nanp)
+[![Email badge](https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmol87@gmail.com?subject=Hello)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/r3nanp)
 
 ---
 
@@ -42,5 +41,10 @@
 <br> <br>
 
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=r3nanp&show_icons=true&theme=dracula" alt="Status" />
+</p>
+
+<p align="left">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3nanp&layout=compact&show_icons=true&theme=dracula" alt="Langs" />
 </p>
