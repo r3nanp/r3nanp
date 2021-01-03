@@ -15,15 +15,15 @@
 <h3 align="left">Main technologies: </h3>
 
 <p align="left">
-<code><img align="left" alt="Visual Studio Code" width="26px" src="https://rawgithubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topicsvisual-studio-code/visual-studio-code.png" /></code>
-<code><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.comgithub/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.comgithub/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontentcom/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascriptpng" /></code>
-<code><img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontentcom/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescriptpng" /></code>
-<code><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.comgithub/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-<code><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontentcom/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><code>
-<code><img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.comgithub/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
-<code><img align="left" alt="Docker" width="26px" src="https://user-imagesgithubusercontent.com/38081852/87548752-565a5f00-c683-11ea-98bc-466626e09af8.png" /><code>
+<code><img alt="Visual Studio Code" width="26px" src="https://rawgithubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topicsvisual-studio-code/visual-studio-code.png" /></code>
+<code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.comgithub/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.comgithub/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
+<code><img alt="JavaScript" width="26px" src="https://raw.githubusercontentcom/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascriptpng" /></code>
+<code><img alt="TypeScript" width="26px" src="https://raw.githubusercontentcom/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescriptpng" /></code>
+<code><img alt="React" width="26px" src="https://raw.githubusercontent.comgithub/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
+<code><img alt="JavaScript" width="26px" src="https://raw.githubusercontentcom/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img alt="SQL" width="26px" src="https://raw.githubusercontent.comgithub/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
+<code><img alt="Docker" width="26px" src="https://user-imagesgithubusercontent.com/38081852/87548752-565a5f00-c683-11ea-98bc-466626e09af8.png" /><code>
 </p>
 
 <br> <br>
