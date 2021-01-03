@@ -15,31 +15,24 @@
 <h3 align="left">Main technologies: </h3>
 
 <p align="left">
-  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <code><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+
+  <code><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
   
-  <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <code><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
 
-  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <code><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
 
-  <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+  <code><img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
 
-  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <code><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
 
-  <svg viewBox="0 0 128 128" width="26px">
-<path fill="#83CD29" d="M112.771 30.334l-44.097-25.605c-2.781-1.584-6.402-1.584-9.205 0l-44.568 25.605c-2.87 1.651-4.901 4.754-4.901 8.073v51.142c0 3.319 2.084 6.423 4.954 8.083l11.775 6.688c5.628 2.772 7.617 2.772 10.178 2.772 8.333 0 13.093-5.039 13.093-13.828v-50.49c0-.713-.371-1.774-1.071-1.774h-5.623c-.712 0-2.306 1.061-2.306 1.773v50.49c0 3.896-3.524 7.773-10.11 4.48l-12.167-7.013c-.424-.23-.723-.693-.723-1.181v-51.142c0-.482.555-.966.982-1.213l44.424-25.561c.415-.235 1.025-.235 1.439 0l43.882 25.555c.42.253.272.722.272 1.219v51.142c0 .488.183.963-.232 1.198l-44.086 25.576c-.378.227-.847.227-1.261 0l-11.307-6.749c-.341-.198-.746-.269-1.073-.086-3.146 1.783-3.726 2.02-6.677 3.043-.726.253-1.797.692.41 1.929l14.798 8.754c1.417.82 3.027 1.246 4.647 1.246 1.642 0 3.25-.426 4.667-1.246l43.885-25.582c2.87-1.672 4.23-4.764 4.23-8.083v-51.142c0-3.319-1.36-6.414-4.229-8.073zM77.91 81.445c-11.726 0-14.309-3.235-15.17-9.066-.1-.628-.633-1.379-1.272-1.379h-5.731c-.709 0-1.279.86-1.279 1.566 0 7.466 4.059 16.512 23.453 16.512 14.039 0 22.088-5.455 22.088-15.109 0-9.572-6.467-12.084-20.082-13.886-13.762-1.819-15.16-2.738-15.16-5.962 0-2.658 1.184-6.203 11.374-6.203 9.105 0 12.461 1.954 13.842 8.091.118.577.645.991 1.24.991h5.754c.354 0 .692-.143.94-.396.24-.272.367-.613.335-.979-.891-10.568-7.912-15.493-22.112-15.493-12.631 0-20.166 5.334-20.166 14.275 0 9.698 7.497 12.378 19.622 13.577 14.505 1.422 15.633 3.542 15.633 6.395 0 4.955-3.978 7.066-13.309 7.066z"></path>
-</svg>
+  <code><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-  <svg viewBox="0 0 128 128" width="26px">
-<g id="original"><path fill="#47848f" d="M49.07,32.66c-14.37-2.62-25.72.12-30.25,8-3.38,5.85-2.41,13.61,2.34,21.9a1.47,1.47,0,0,0,2.56-1.47c-4.28-7.47-5.12-14.17-2.35-19,3.76-6.51,13.89-9,27.17-6.54a1.47,1.47,0,1,0,.53-2.9ZM28.63,72.61a92.2,92.2,0,0,0,22,17.34c20.84,12,43,15.25,54,7.79a1.47,1.47,0,0,0-1.66-2.43C93.11,102,72,98.92,52.07,87.39A89.27,89.27,0,0,1,30.81,70.62a1.47,1.47,0,0,0-2.18,2Z"></path><path fill="#47848f" d="M101.06,70.81c9.41-11.11,12.69-22.29,8.17-30.11-3.32-5.76-10.35-8.8-19.69-8.92a1.47,1.47,0,0,0,0,2.95c8.4.11,14.45,2.73,17.18,7.45,3.75,6.5.82,16.47-7.87,26.74a1.47,1.47,0,1,0,2.25,1.9ZM76.89,33.15a92,92,0,0,0-26.25,10.4C29.13,56,15.09,74.29,17,87.57A1.47,1.47,0,0,0,20,87.14C18.23,75.35,31.53,58,52.11,46.11A89.07,89.07,0,0,1,77.51,36a1.47,1.47,0,1,0-.62-2.88Z"></path><path fill="#47848f" d="M42,96.78C47,110.51,55,119,64.05,119c6.6,0,12.7-4.5,17.46-12.42A1.47,1.47,0,1,0,79,105c-4.28,7.12-9.53,11-14.94,11-7.52,0-14.69-7.54-19.24-20.24a1.47,1.47,0,0,0-2.77,1ZM87,94.09a92.5,92.5,0,0,0,3.91-27.3c0-24.41-8.54-45.44-20.71-50.85A1.47,1.47,0,0,0,69,18.64c10.85,4.82,19,24.78,19,48.15a89.57,89.57,0,0,1-3.78,26.42,1.47,1.47,0,0,0,2.81.88Z"></path><path fill="#47848f" d="M114.71,92.65a7.05,7.05,0,1,0-7.05,7.05,7.05,7.05,0,0,0,7.05-7.05Zm-2.95,0a4.1,4.1,0,1,1-4.1-4.1,4.1,4.1,0,0,1,4.1,4.1Z"></path><path fill="#47848f" d="M20.34,99.7a7.05,7.05,0,1,0-7.05-7.05,7.05,7.05,0,0,0,7.05,7.05Zm0-2.95a4.1,4.1,0,1,1,4.1-4.1,4.1,4.1,0,0,1-4.1,4.1Z"></path><path fill="#47848f" d="M64.05,23.13A7.05,7.05,0,1,0,57,16.08a7.05,7.05,0,0,0,7.05,7.05Zm0-2.95a4.1,4.1,0,1,1,4.1-4.1,4.1,4.1,0,0,1-4.1,4.1Z"></path><path fill="#47848f" d="M65.13,71.77A5.1,5.1,0,1,1,69,65.71,5.1,5.1,0,0,1,65.13,71.77Z"></path></g>
-</svg>
+  <code><img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
 
-<svg viewBox="0 0 128 128" width="26px">
-<path fill="#F34F29" d="M124.737 58.378l-55.116-55.114c-3.172-3.174-8.32-3.174-11.497 0l-11.444 11.446 14.518 14.518c3.375-1.139 7.243-.375 9.932 2.314 2.703 2.706 3.461 6.607 2.294 9.993l13.992 13.993c3.385-1.167 7.292-.413 9.994 2.295 3.78 3.777 3.78 9.9 0 13.679-3.78 3.78-9.901 3.78-13.683 0-2.842-2.844-3.545-7.019-2.105-10.521l-13.048-13.048-.002 34.341c.922.455 1.791 1.063 2.559 1.828 3.778 3.777 3.778 9.898 0 13.683-3.779 3.777-9.904 3.777-13.679 0-3.778-3.784-3.778-9.905 0-13.683.934-.933 2.014-1.638 3.167-2.11v-34.659c-1.153-.472-2.231-1.172-3.167-2.111-2.862-2.86-3.551-7.06-2.083-10.576l-14.313-14.313-37.792 37.79c-3.175 3.177-3.175 8.325 0 11.5l55.117 55.114c3.174 3.174 8.32 3.174 11.499 0l54.858-54.858c3.174-3.176 3.174-8.327-.001-11.501z"></path>
-</svg>
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+  <code><img align="left" alt="Docker" width="26px" src="https://user-images.githubusercontent.com/38081852/87548752-565a5f00-c683-11ea-98bc-466626e09af8.png" /></code>
 
 </p>
 
