@@ -9,7 +9,7 @@
 
 [![Email badge](https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmol87@gmail.com?subject=Hello)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/r3nanp)
-[![Twitter badge](https://img.shields.io/badge/twiiter-black?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/r3nanp_)
+[![Twitter badge](https://img.shields.io/badge/twitter-black?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/r3nanp_)
 
 ---
 
