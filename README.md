@@ -2,13 +2,14 @@
 
 **Software Developer**
 
-- ⚡ Currently mastering: **React, Next.js, Node.js, React Native, styled-components**
-- 💻 I'm learning: **Electron, TDD, BDD, DDD, Design Patterns**
+- ⚡ Currently mastering: **_React, Next.js, Node.js, React Native_**
+- 📚 Currently learning: **_Electron, TDD, Design Patterns, Svelte_**
 
 ### How to reach me:
 
 [![Email badge](https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmol87@gmail.com?subject=Hello)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/r3nanp)
+[![Twitter badge](https://img.shields.io/badge/twiiter-black?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/r3nanp_)
 
 ---
 
