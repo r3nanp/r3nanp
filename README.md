@@ -3,7 +3,7 @@
 **Software Developer**
 
 - ⚡ Currently mastering: **_React, Next.js, Node.js, React Native_**
-- 📚 Currently learning: **_Electron, TDD, Design Patterns, Svelte_**
+- 📚 Currently learning: **_Electron, Elixir, TDD, Design Patterns, Svelte_**
 
 ### How to reach me:
 
