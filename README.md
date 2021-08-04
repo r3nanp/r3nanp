@@ -9,7 +9,7 @@ Evangelist of React, Next.js, and Typescript, enthusiast of the best web and mob
 
 - ⚡ Currently mastering: **_React, Next.js, Node.js, React Native_**
 - 📚 Currently learning: **_GraphQL, Serverless, TDD, Design Patterns_**
-- 📫 How to reach me: renanmol87@gmail.com
+- 📫 How to reach me: renan.souza.dev@gmail.com
 
 ---
 
