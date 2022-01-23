@@ -1,11 +1,11 @@
 # 🔥 Renan Pereira
 
-**Software Developer** 
+**Software Engineer** 
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/r3nanp)
 [![Twitter badge](https://img.shields.io/badge/twitter-black?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/r3nanp_)
 
-Evangelist of React, Next.js, and Typescript, enthusiast of the best web and mobile development technologies. <br /> Self-taught developer and always trying to improve my knowledge.
+Evangelist of React, React Native, Next.js, and Typescript, enthusiast of the best web and mobile development technologies. <br /> Self-taught engineer and always trying to improve my knowledge.
 
 - ⚡ Currently mastering: **_React, Next.js, Node.js, React Native_**
 - 📚 Currently learning: **_GraphQL, Design Patterns_**
@@ -29,4 +29,4 @@ Evangelist of React, Next.js, and Typescript, enthusiast of the best web and mob
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=r3nanp&show_icons=tru&theme=dracula" alt="Status" />
+<img src="https://github-readme-stats.vercel.app/api?username=r3nanp&show_icons=true&theme=dracula" alt="Status" />
