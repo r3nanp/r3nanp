@@ -1,15 +1,12 @@
-# 🔥 Renan Pereira
+# Renan Pereira
 
-**Software Engineer** 
+**Software Engineer**
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/r3nanp)
-[![Twitter badge](https://img.shields.io/badge/twitter-black?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/r3nanp_)
 
-Evangelist of React, React Native, Next.js, and Typescript, enthusiast of the best web and mobile development technologies. <br /> Self-taught engineer and always trying to improve my knowledge.
+I'm a SWE focused on high-quality front-end and mobile solutions. My background includes React and React Native apps and Node.js applications.
 
-- ⚡ Currently mastering: **_React, Next.js, Node.js, React Native_**
-- 📚 Currently learning: **_GraphQL, Design Patterns_**
-- 📫 How to reach me: renan.souza.dev@gmail.com
+Enthusiast of the best web and mobile development technologies.
 
 ---
 
@@ -20,12 +17,7 @@ Evangelist of React, React Native, Next.js, and Typescript, enthusiast of the be
 <code><img title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
 <code><img title="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
 <code><img title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-<code>
-  <img title="Next.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" />
-</code>
 <code><img title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
-<code><img title="Docker" width="26px" src="https://user-images.githubusercontent.com/38081852/87548752-565a5f00-c683-11ea-98bc-466626e09af8.png" /></code>
 
 <br>
 
