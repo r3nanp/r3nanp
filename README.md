@@ -4,7 +4,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/r3nanp)
 
-I'm a SWE focused on high-quality front-end and mobile solutions. My background includes React and React Native apps and Node.js applications.
+I'm a SWE focused on high-quality front-end and mobile solutions. My background includes React, React Native, Node.js applications.
 
 Enthusiast of the best web and mobile development technologies.
 
