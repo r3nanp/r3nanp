@@ -1,24 +1,9 @@
-# Renan Pereira
+### Hi, I'm Renan 👋
 
-**Software Engineer**
+I'm a 19 year old guy from Fortaleza, Brazil striving to innovate great solutions to modern-day problems. I specialize in development, but any activity requiring problem solving and creative thinking is where you will find me.
 
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/r3nanp)
+Currently working full-time as a Software Engineer @ <a href="https://casamento.wedy.com">Wedy</a>, while working on personal projects in my spare time.
 
-I'm a SWE focused on high-quality front-end and mobile solutions. My background includes React, React Native, Node.js applications.
-
-Enthusiast of the best web and mobile development technologies.
-
----
-
-### Main technologies:
-
-<code><img title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img title="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
-<code><img title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-<code><img title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=r3nanp&show_icons=true&theme=dracula" alt="Status" />
+##### Where you'll find me
+* 🤵 Because "you have to" <a href="https://linkedin.com/in/r3nanp">LinkedIn</a>
+* 📸 Posting pictures on <a href="https://instagram.com/r3nanp_">Instagram</a>
