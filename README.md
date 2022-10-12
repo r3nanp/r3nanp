@@ -7,3 +7,5 @@ Currently working full-time as a Software Engineer @ <a href="https://casamento.
 ##### Where you'll find me
 * 🤵 Because "you have to" <a href="https://linkedin.com/in/r3nanp">LinkedIn</a>
 * 📸 Posting pictures on <a href="https://instagram.com/r3nanp_">Instagram</a>
+
+<img src="og.png" />
