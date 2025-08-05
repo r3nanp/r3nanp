@@ -1,11 +1,28 @@
-### Hi, I'm Renan 👋
+# 👋 Hi, I'm Renan Souza
 
-I'm a 21 year old guy from Fortaleza, Brazil striving to innovate great solutions to modern-day problems. I specialize in development, but any activity requiring problem-solving and creative thinking is where you will find me.
+💻 **Software Engineer | Problem Solver**
 
-Currently working full-time as a Software Engineer @ <a href="https://casamento.wedy.com">Wedy</a>, while working on personal projects in my spare time.
+I'm a 22-year-old developer from **Fortaleza, Brazil**, passionate about creating **impactful solutions** for modern challenges. My expertise lies in **full-stack development, API design, and performance-driven applications**, but what truly drives me is solving complex problems with **creativity and efficiency**.
 
-##### Where you'll find me
-* 🤵 Because "you have to" <a href="https://linkedin.com/in/r3nanp">LinkedIn</a>
-* 📸 Posting pictures on <a href="https://instagram.com/r3nanp_">Instagram</a>
+Currently, I'm working as a **Software Engineer at [Wedy](https://casamento.wedy.com)**, building solutions that power thousands of social events across Brazil .
+Outside of work, I love experimenting with **personal projects** and exploring new **tech stacks, AI tools, and system design patterns**.
 
-<img src="og.png" />
+---
+
+### 🚀 What I Do
+
+- **Web & Mobile Development** (React, Next.js, React Native)
+- **Backend & APIs** (Node.js, TypeScript, Prisma, PostgreSQL)
+- **Serverless & Cloud** (Vercel, AWS, Edge Functions)
+- **AI Integrations** (LangChain, OpenAI API)
+
+---
+
+### 🌍 Let's Connect
+
+- 🤵 Because "you have to" <a href="https://linkedin.com/in/r3nanp">Linkedin</a>
+- 📸 Posting pictures on <a href="https://instagram.com/r3nanp_">Instagram</a>
+
+<p align="center">
+  <img src="og.png" alt="Hero Banner" width="100%" />
+</p>
